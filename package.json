@@ -31,6 +31,6 @@
     ]
   },
   "devDependencies": {
-    "react-styleguidist": "^9.1.13"
+    "react-styleguidist": "^9.2.0"
   }
 }
